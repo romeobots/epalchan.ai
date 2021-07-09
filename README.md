@@ -71,7 +71,7 @@ EpalChan AI Commands
 | `/slp` | Command to check SLP balance | check `/slp help` for more info |
 | `/price` | Shows the current price (with price graph in the last 6 hours) of requested crypto/coin.<br>`<coin>` = can be the ID (slp) or name (smooth love potion). <br>`<currency>` = can only be the abbreviation (php) of your requested currency| `/price <coin> <currency>` |
 | `/stat` | Shows your current stats in Axie Infinity. <br> `<address>` = could be your Ronin or ETH address. | `/stat <address>` | 
-| `/axieinfo` | Shows information about `<axie id>`. <br> `<axie id>` = Axie ID. `<type>` (optional) = stats, cards; defaults to both | `/axieinfo <axie id> <type (optional)>`|
+| `/axieinfo` | Shows information about `<axie id>`. <br> `<axie id>` = Axie ID. <br> `<type>` (optional) = stats, cards; defaults to both | `/axieinfo <axie id> <type (optional)>`|
 
 
 ---
