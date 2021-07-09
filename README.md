@@ -9,7 +9,9 @@ EpalChan AI Commands
 | `/help`  | Sends help message | `/help` |
 | `/delete` | Delete a particular message EpalChan sent | reply `/delete` to any EpalChan's message | 
 | `/kick <reason (optional)>` | Kicks a user | reply `/kick <reason (optional)>` to a user's message |
-  
+
+---
+
 `/help` More commands!
 ----------
 
@@ -20,6 +22,10 @@ EpalChan AI Commands
 | `/axiehelp`     | Sends available Axie Infinity / crypto related commands | `/axiehelp` |  
 | `/note`     | a handy way of saving "notes"! | `/note help` for more info |  
 
+
+---
+
+
 `/fun` Random and miscellaneous commands!
 ----------
 
@@ -27,6 +33,10 @@ EpalChan AI Commands
 | ------   | ----------- | -----------|
 | `/reddit` |  Returns a random Reddit post from a subreddit | `/reddit <subreddit>` |
 | `/pokemon` | Returns the base stats of a Pokémon | `/pokemon <pokemon name>`|
+
+
+--- 
+
 
 `/slot` Slot machine game!
 ----------
@@ -49,6 +59,10 @@ EpalChan AI Commands
 🌟 | x 4 
 ❓ | x 4  |(wildcard)
 
+
+---
+
+
 `/axiehelp` Axie Infinity/crypto related commands:
 ----------
 
@@ -59,6 +73,10 @@ EpalChan AI Commands
 | `/stat` | Shows your current stats in Axie Infinity. <br> `<address>` = could be your Ronin or ETH address. | `/stat <address>` | 
 | `/axieinfo` | Shows information about `<axie id>`. <br> `<axie id>` = Axie ID. `<type>` (optional) = stats, cards; defaults to both | `/axieinfo <axie id> <type (optional)>`|
 
+
+---
+
+
 `/slp` commands!
 ----------
 
@@ -68,7 +86,11 @@ EpalChan AI Commands
 | `/slp daily` | Shows your daily SLP earnings.<br>**IMPORTANT!** Use `/slp addtracker` before using `/slp daily` | `/slp daily`|
 | `/slp addtracker` | Adds your address to the SLP tracker | `/slp addtracker <address>` |
 | `/slp edittracker` | Edits your address to the SLP tracker | `/slp edittracker <address>` |
- 
+
+
+---
+
+
 `/note` - a handy way of saving "notes"!
 ----------
 
