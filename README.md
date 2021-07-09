@@ -97,7 +97,7 @@ EpalChan AI Commands
 | Command        | Description | Usage |
 | ---------------| ----------- | -----------|
 | `/note help`   | Shows help message for `/note` | `/note help` |
-| `/note add`    | Adds note<br>**Important!** Use an underspace _ instead of a white space!| Reply `/note add <note_name>` to a message|
+| `/note add`    | Adds note<br>**IMPORTANT!** Use an underscore _ instead of a white space!| Reply `/note add <note_name>` to a message|
 | `/note get`    | Gets note | `/note get <note_name>` |
 | `#`            | Shorthand for `/note get`, same functionality as `/note get` | `#<note name>`|
 | `/note list`   | Lists notes on a particular thread | `/note list` |
