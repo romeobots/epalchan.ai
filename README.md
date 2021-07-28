@@ -1,4 +1,4 @@
-EpalChan AI Commands
+Mizuno AI Commands
 ===============
 
 `/help` Basic commands!
@@ -7,7 +7,7 @@ EpalChan AI Commands
 | Command | Description | Usage |
 | ------ | ----------- | -----------|
 | `/help`  | Sends help message | `/help` |
-| `/delete` | Delete a particular message EpalChan sent | reply `/delete` to any EpalChan's message | 
+| `/delete` | Delete a particular message Mizuno sent | reply `/delete` to any Mizuno's message | 
 | `/kick <reason (optional)>` | Kicks a user | reply `/kick <reason (optional)>` to a user's message |
 
 ---
@@ -18,7 +18,7 @@ EpalChan AI Commands
 | Command  | Description | Usage      |
 | ------   | ----------- | -----------|
 | `/fun`     | Sends available random miscellaneous commands | `/fun` |  
-| `/slot`     | Sends commands for the slot machine game | `/slot help` for more info |  
+| `/slot`     | `CURRENTLY DISABLED`<br>Sends commands for the slot machine game | `/slot help` for more info |  
 | `/axiehelp`     | Sends available Axie Infinity / crypto related commands | `/axiehelp` |  
 | `/note`     | a handy way of saving "notes"! | `/note help` for more info |  
 
@@ -71,7 +71,7 @@ EpalChan AI Commands
 | `/slp` | Command to check SLP balance | check `/slp help` for more info |
 | `/price` | Shows the current price (with price graph in the last 6 hours) of requested crypto/coin.<br>`<coin>` = can be the ID (slp) or name (smooth love potion). <br>`<currency>` = can only be the abbreviation (php) of your requested currency| `/price <coin> <currency>` |
 | `/stat` | Shows your current stats in Axie Infinity. <br> `<address>` = could be your Ronin or ETH address. | `/stat <address>` | 
-| `/axieinfo` | Shows information about `<axie id>`. <br> `<axie id>` = Axie ID. <br> `<type>` (optional) = stats, cards; defaults to both | `/axieinfo <axie id> <type (optional)>`|
+| `/axieinfo` | `CURRENTLY DISABLED`<br>Shows information about `<axie id>`. <br> `<axie id>` = Axie ID. <br> `<type>` (optional) = stats, cards; defaults to both | `/axieinfo <axie id> <type (optional)>`|
 
 
 ---
@@ -83,7 +83,7 @@ EpalChan AI Commands
 | Command | Description | Usage |
 | ------   | ----------- | -----------|
 | `/slp` | Shows current SLP balance of `<address>` | `/slp <address>`|
-| `/slp daily` | Shows your daily SLP earnings.<br>**IMPORTANT!** Use `/slp addtracker` before using `/slp daily` | `/slp daily`|
+| `/slp daily` | `CURRENTLY BUGGY`<br>Shows your daily SLP earnings.<br>**IMPORTANT!** Use `/slp addtracker` before using `/slp daily` | `/slp daily`|
 | `/slp addtracker` | Adds your address to the SLP tracker | `/slp addtracker <address>` |
 | `/slp edittracker` | Edits your address to the SLP tracker | `/slp edittracker <address>` |
 
