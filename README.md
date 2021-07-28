@@ -102,3 +102,17 @@ Mizuno AI Commands
 | `#`            | Shorthand for `/note get`, same functionality as `/note get` | `#<note name>`|
 | `/note list`   | Lists notes on a particular thread | `/note list` |
 | `/note delete` | Deletes requested note | `/note delete <note_name>` |
+
+
+---
+
+
+`/ar` `/autorespond` - autoresponder!
+----------
+
+| Command        | Description | Usage |
+| ---------------| ----------- | -----------|
+| `/ar help`   | Shows help message for `/ar` | `/ar help` |
+| `/ar add`    | Adds autoresponse | Reply `/ar add <autoresponse name>` to a message|
+| `/ar list`   | Lists autoresponse on a particular thread | `/note list` |
+| `/ar delete` | Deletes requested autoresponse | `/note delete <autoresponse name>` |
