@@ -38,7 +38,7 @@ Mizuno AI Commands
 --- 
 
 
-`/slot` Slot machine game!
+`/slot` `CURRENTLY DISABLED` Slot machine game!
 ----------
 
 | Command | Description | Usage |
